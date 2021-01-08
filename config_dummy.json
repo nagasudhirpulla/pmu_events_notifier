@@ -1,0 +1,21 @@
+{
+    "dbConfig": {
+        "host": "",
+        "port": 5432,
+        "name": "",
+        "username": "",
+        "password": ""
+    },
+    "emailConfig": {
+        "emailAddress": "",
+        "username": "",
+        "password": "",
+        "host": ""
+    },
+    "persons": [{
+        "name": "",
+        "email": ""
+    }],
+    "hrsOffset": 8,
+    "dataFilePath": "data.xlsx"
+}
